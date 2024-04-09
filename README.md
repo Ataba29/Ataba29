@@ -1,5 +1,7 @@
+<img align="center" alr="Peeking" width="1000" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVqbmxlaXE2ZDlidXhuaWdkOWRueGxjdHNqemNqcjdrM2Jsc2xwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g1n3pswjr0ouc/giphy.gif">
 <h1 align="center">Hello I'm Ahmad Ataba</h1>
 <h3 align="center">Hardworking Student of Braude College of Engineering, Karmiel.</h3>
+<img align="right" alr="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--8mUhEkXE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/km2w1ppw3yw9pd9na7mu.gif">
 
 - 🌱 I’m currently learning **Software Engineering, 3rd year.**
 
@@ -9,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/ahmad-ataba-08111a270/**
 
-- ⚡ Fun fact **I like to play video games, read manga, and workout at the gym.**
+- ⚡ Fun fact **I like to play video games, read manga, and work out at the gym.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
