@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anything that you want, I'm open to answer any question.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ahmad-ataba-08111a270/**
+- 📫 How to reach me **https://www.linkedin.com/in/ahmadataba/**
 
 - ⚡ Fun fact **I like to play video games, read manga, and work out at the gym.**
 
