@@ -1,4 +1,3 @@
-<img align="center" alr="Peeking" width="1000" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU2MDNtYmtwNnJrYXM5NzBmNGU1bXM1ZGM4djU3aTFoaHZlMWE3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RRerwvHrb0nxm/giphy.gif">
 <h1 align="center">Hello I'm Ahmad Ataba</h1>
 <h3 align="center">Coding for fun or something</h3>
 
