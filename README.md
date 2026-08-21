@@ -68,6 +68,16 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Ataba29&theme=tokyon
 
 ---
 
+# 🤓 Trophies
+
+<div align="center">
+
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=Ataba29&theme=darkhub&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 # 📬 Contact
 
 <div align="center">
